@@ -1,0 +1,29 @@
+>>> prenom = 'Pierre'
+>>> age = 20
+>>> majeur = True
+>>> compte_en_banque = 20135,384
+>>> amis = ["Marie", "Julien", "Adrien"]
+>>> parents = ("Marc", "Caroline")
+>>> "exercice deux : les double quotes"
+'exercice deux : les double quotes'
+>>> a = 17
+>>> print("le nombre est " + str(a))
+>>> exercice 4 : 6
+>>> print(a,b,c, sep=" + ")
+2 + 6 + 3
+>>> Exercice 6 : le nom de la fonction
+>>> Exercice 7 : 
+>>> prenom = "vincent"
+>>> if(type(prenom) == str):
+...     print("la variable est une chaine de caractère")
+... 
+la variable est une chaine de caractère
+>>> prenom = 0
+>>> if(type(prenom) == int):
+...     print("la variable est un entier")
+...
+la variable est un entier
+>>> p = "Salut les dev"
+>>> p = p.replace("Salut","Bonsoir")
+>>> p
+'Bonsoir les dev'
